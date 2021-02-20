@@ -14,4 +14,5 @@ public class API {
     public static final String POST = HOST + "/test/myuser/saveOrUpdate";
     public static final String PICTURE_CAT = "https://www.hdnicewallpapers.com/Walls/Big/Cat/Beautiful_Angry_Kitten.jpg";
     public static final String ANIMAL_DETECT = HOST + "/baidu/animalDetect";
+    public static final String CAR_DETECT = "";
 }
