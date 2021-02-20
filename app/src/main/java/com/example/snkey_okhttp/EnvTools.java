@@ -17,6 +17,7 @@ public  class EnvTools {
         Log.d(TAG, "getEnv: "+ Environment.DIRECTORY_DCIM);
         Log.d(TAG, "getEnv: "+ Environment.DIRECTORY_DCIM);
         Log.d(TAG, "getEnv: "+ Environment.DIRECTORY_DCIM);
+        Log.d(TAG, "getEnv: "+ Environment.DIRECTORY_DCIM);
 
     }
 }
