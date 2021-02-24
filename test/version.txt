@@ -1,2 +1,2 @@
-versionCode=0.2.2
-versionName=4
+versionCode=0.2.3
+versionName=5
